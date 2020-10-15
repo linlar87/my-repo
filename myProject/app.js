@@ -86,7 +86,7 @@
 // val = numbers.find(under50);
 
 const person = {
-    firstName: 'Steve',
+    firstName: 'Sam',
     lastName: 'Smmith',
     age: 30,
     email: 'steve@aol.com',
